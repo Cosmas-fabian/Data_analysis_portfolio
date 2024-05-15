@@ -16,7 +16,7 @@ Exploratory data analysis (EDA) by using pima-indians-diabetes
 https://github.com/Cosmas-fabian/Data_analysis_portfolio/blob/main/introduction%20to%20data%20analysis.ipynb
 ### Goal of the project 
 Conduct exploratory data analysis (EDA) to analyze correlations between different health attributes and the development of diabetes
-### Description :**
+### Description  of the project :
 The project centered around analyzing the Pima Indians Diabetes dataset, which contains health-related attributes for Pima Indian women. The dataset encompasses variables such as pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, body mass index (BMI), diabetes pedigree function, age, and an outcome variable indicating diabetes onset within five years. The project involved loading the dataset, cleaning and preprocessing it to handle missing values and outliers, conducting exploratory data analysis (EDA) to understand the distribution and relationships between variables, examining the correlation between different health attributes and the development of diabetes, and implementing statistical analysis techniques such as Pearson’s correlation to quantify the strength and direction of relationships between variables
 ###  Skill :
 data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
@@ -24,3 +24,20 @@ data cleaning, data analysis, correlation matrices, hypothesis testing, data vis
 Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 ### Results: 
 Through analysis conducted with Python, it was determined that attributes such as glucose levels and BMI exhibit notable correlations with the onset of diabetes among Pima Indian women. Specifically, higher glucose levels and elevated BMI are associated with an increased risk of developing diabetes. However, no significant correlation was observed between age and diabetes onset within the dataset.
+
+### Name of the project 
+Nashville Housing Data Cleaning
+### Codeof the project 
+### Goal of the project:
+The goal of the Nashville Housing Data Cleaning project is to prepare a clean, accurate, and reliable dataset containing information about housing properties in Nashville for further analysis. By addressing issues such as missing values, outliers, data integrity, and formatting inconsistencies, the project aims to ensure that the dataset is suitable for use in data analysis, modeling, and decision-making processes. Ultimately, the project seeks to provide stakeholders with a high-quality dataset that can support informed insights and actions related to Nashville's housing market trends, pricing dynamics, and property characteristics
+### Description  of the project :
+The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+###  Skill :
+DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+### Technology:
+SQL Server
+### Results: 
+The result of the Nashville Housing Data Cleaning project is a meticulously cleaned and standardized dataset ready for analysis. This dataset is free from missing values, outliers, and data quality issues, ensuring its reliability and suitability for further exploration and modeling. Additionally, comprehensive documentation detailing the data cleaning process provides transparency and reproducibility, allowing stakeholders to understand the steps taken and decisions made during the cleaning process
+
+
+
