@@ -10,4 +10,6 @@ Outside of academia, I immerse myself in exploring the latest data analysis tool
 ### Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
+### Exploratory data analysis (EDA) by using pima-indians-diabetes
+### Code 
+### Goal.Conduct exploratory data analysis (EDA) to analyze correlations between different health attributes and the development of diabetes
