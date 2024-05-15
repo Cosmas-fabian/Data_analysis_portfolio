@@ -11,7 +11,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Name of the project:
 Exploratory data analysis (EDA) by using pima-indians-diabetes
-### Codeof the project: 
+### Code of the project: 
 https://github.com/Cosmas-fabian/Data_analysis_portfolio/blob/main/introduction%20to%20data%20analysis.ipynb
 ### Goal of the project: 
 Conduct exploratory data analysis (EDA) to analyze correlations between different health attributes and the development of diabetes
