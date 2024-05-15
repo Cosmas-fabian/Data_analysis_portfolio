@@ -9,7 +9,7 @@ Outside of academia, I immerse myself in exploring the latest data analysis tool
 ### Portfolio Projects:
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-###Name of the project:
+### Name of the project:
 Exploratory data analysis (EDA) by using pima-indians-diabetes
 ### Codeof the project: 
 https://github.com/Cosmas-fabian/Data_analysis_portfolio/blob/main/introduction%20to%20data%20analysis.ipynb
