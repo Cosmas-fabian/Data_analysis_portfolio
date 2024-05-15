@@ -27,7 +27,7 @@ Through analysis conducted with Python, it was determined that attributes such a
 
 ### Name of the project 
 Nashville Housing Data Cleaning
-### Codeof the project:
+### Code of the project:
 https://github.com/Cosmas-fabian/Data_analysis_portfolio/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql
 ### Goal of the project:
 The goal of the Nashville Housing Data Cleaning project is to prepare a clean, accurate, and reliable dataset containing information about housing properties in Nashville for further analysis. By addressing issues such as missing values, outliers, data integrity, and formatting inconsistencies, the project aims to ensure that the dataset is suitable for use in data analysis, modeling, and decision-making processes. Ultimately, the project seeks to provide stakeholders with a high-quality dataset that can support informed insights and actions related to Nashville's housing market trends, pricing dynamics, and property characteristics
@@ -40,5 +40,10 @@ SQL Server
 ### Results: 
 The result of the Nashville Housing Data Cleaning project is a meticulously cleaned and standardized dataset ready for analysis. This dataset is free from missing values, outliers, and data quality issues, ensuring its reliability and suitability for further exploration and modeling. Additionally, comprehensive documentation detailing the data cleaning process provides transparency and reproducibility, allowing stakeholders to understand the steps taken and decisions made during the cleaning process
 
-
+###Name of the project
+### Code of the project 
+### Goal of the project:
+### Description  of the project :
+###  Skill :
+### Results: 
 
