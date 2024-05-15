@@ -43,7 +43,7 @@ The result of the Nashville Housing Data Cleaning project is a meticulously clea
 ### Name of the project:
 BostonaHousing project
 ### Code of the project:
-
+https://github.com/Cosmas-fabian/Data_analysis_portfolio/blob/main/BostonaHousing.ipynb
 ### Goal of the project:
 The goal of the Boston Housing Project is to analyze the Boston Housing dataset to gain insights into the factors influencing housing prices in the Boston area. By leveraging data analysis techniques, the project aims to identify key predictors of housing prices and develop a predictive model to estimate property values. Ultimately, the project seeks to provide valuable insights for homebuyers, sellers, real estate professionals, and policymakers interested in understanding and navigating the Boston housing market.
 ### Description  of the project :
