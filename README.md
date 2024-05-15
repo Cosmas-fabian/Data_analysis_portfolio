@@ -12,9 +12,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Exploratory data analysis (EDA) by using pima-indians-diabetes
 ### Code  https://github.com/Cosmas-fabian/Data_analysis_portfolio/blob/main/introduction%20to%20data%20analysis.ipynb
-### Goal.Conduct exploratory data analysis (EDA) to analyze correlations between different health attributes and the development of diabetes
-### Description :
+### Goal.**Conduct exploratory data analysis (EDA) to analyze correlations between different health attributes and the development of diabetes
+### Description :**
 The project centered around analyzing the Pima Indians Diabetes dataset, which contains health-related attributes for Pima Indian women. The dataset encompasses variables such as pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, body mass index (BMI), diabetes pedigree function, age, and an outcome variable indicating diabetes onset within five years. The project involved loading the dataset, cleaning and preprocessing it to handle missing values and outliers, conducting exploratory data analysis (EDA) to understand the distribution and relationships between variables, examining the correlation between different health attributes and the development of diabetes, and implementing statistical analysis techniques such as Pearson’s correlation to quantify the strength and direction of relationships between variables
-###  Skill : data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
-### Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
-### Results: Through analysis conducted with Python, it was determined that attributes such as glucose levels and BMI exhibit notable correlations with the onset of diabetes among Pima Indian women. Specifically, higher glucose levels and elevated BMI are associated with an increased risk of developing diabetes. However, no significant correlation was observed between age and diabetes onset within the dataset.
+###  Skill :** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.**
+### Technology:**** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.**
+### Results: **Through analysis conducted with Python, it was determined that attributes such as glucose levels and BMI exhibit notable correlations with the onset of diabetes among Pima Indian women. Specifically, higher glucose levels and elevated BMI are associated with an increased risk of developing diabetes. However, no significant correlation was observed between age and diabetes onset within the dataset.**
